@@ -1,0 +1,15 @@
+﻿{
+	"manifest_version": 2,
+	"icons": {
+		"128": "images/icon_big.png"
+	},
+	"description": "魏丁都不蔚汀伺服器 - 合成表快速連結選單",
+	"browser_action": {
+		"default_icon": "images/icon.png",
+		"default_popup": "popup.html",
+		"default_title": "點擊打開「魏丁都不蔚汀伺服器」網站合成表"
+	},
+	"name": "WeiDingServer 網站合成表連結選單",
+	"version": "1.0.0",
+	"homepage_url": "https://weidingserver.github.io/"
+}
